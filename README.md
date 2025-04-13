@@ -1,17 +1,12 @@
 <h1 align="center">Hi 👋, I'm Gautham</h1>
 <h3 align="center">AI & Web Enthusiast | Learning from Projects</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=gautham-balaji&label=Profile%20views&color=0e75b6&style=flat" alt="gautham-balaji" />
-</p>
 
-- 🔭 I’m currently working on **Real-time Emotion Detection using OpenCV & Flask**
-
-- 🌱 I’m currently learning **React, Flask, and Deep Learning**
+- 🌱 I’m currently learning **React, Flask, and Deep Learning and MERN Stack Development**
 
 - 💬 Ask me about **Python, AI projects, and Web Dev basics**
 
-- 📫 How to reach me: **[your-email@example.com]**
+- 📫 How to reach me: **[gautham.balajis@gmail.com]**
 
 ---
 
