@@ -1,28 +1,43 @@
 <h1 align="center">Hi 👋, I'm Gautham</h1>
-<h3 align="center">AI & Web Enthusiast | Learning from Projects</h3>
-
-
-- 🌱 I’m currently learning **React, Flask, and Deep Learning and MERN Stack Development**
-
-- 💬 Ask me about **Python, AI projects, and Web Dev basics**
-
-- 📫 How to reach me: **[gautham.balajis@gmail.com]**
-
----
-
-### 🧠 GitHub Stats:
+<h3 align="center">🚀 AI & Web Enthusiast | Learning through Projects</h3>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gautham-balaji&theme=react&border=61dafb&hide_border=true" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=gautham-balaji&show_icons=true&theme=radical" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gautham-balaji&layout=compact&theme=tokyonight" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=500&color=61DAFB&center=true&vCenter=true&width=435&lines=I+love+building+cool+things+with+AI;Always+learning+and+experimenting!" alt="Typing SVG" />
 </p>
 
 ---
 
-### ⚒️ Tech Stack:
+- 🌱 I’m currently learning **React, Flask, Deep Learning, and MERN Stack Development**  
+- 💬 Ask me about **Python, AI projects, and Web Dev basics**  
+- 📫 How to reach me: **gautham.balajis@gmail.com**
+
+---
+
+### ⚡ GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gautham-balaji&theme=react&border=61dafb&hide_border=true" />
+  <br/><br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=gautham-balaji&show_icons=true&theme=radical" />
+  <br/><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gautham-balaji&layout=compact&theme=tokyonight" />
+</p>
+
+<!-- Optional: Add Trophy Shelf 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=gautham-balaji&theme=radical&no-frame=true&row=1&margin-w=10"/>
+</p>
+-->
+
+<!-- Optional: Add Contribution Snake Animation 
+<p align="center">
+  <img src="https://github.com/gautham-balaji/gautham-balaji/blob/output/github-contribution-grid-snake.svg" />
+</p>
+-->
+
+---
+
+### 🛠️ Tech Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -36,13 +51,14 @@
 
 ---
 
-### 🔗 Connect with me:
+### 🌐 Connect with Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/gautham-balaji-18722228b/" target="blank">
-    <img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="linkedin" height="30" width="30" />
+  <a href="https://www.linkedin.com/in/gautham-balaji-18722228b/" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="30" height="30"/>
   </a>
-  <a href="mailto:[gautham.balajis@gmail.com]" target="blank">
-    <img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="email" height="30" width="30" />
+  &nbsp;&nbsp;
+  <a href="mailto:gautham.balajis@gmail.com" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" width="30" height="30"/>
   </a>
 </p>
