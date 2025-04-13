@@ -39,10 +39,10 @@
 ### 🔗 Connect with me:
 
 <p align="center">
-  <a href="https://linkedin.com/in/[your-linkedin]" target="blank">
+  <a href="https://www.linkedin.com/in/gautham-balaji-18722228b/" target="blank">
     <img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="linkedin" height="30" width="30" />
   </a>
-  <a href="mailto:[your-email@example.com]" target="blank">
+  <a href="mailto:[gautham.balajis@gmail.com]" target="blank">
     <img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="email" height="30" width="30" />
   </a>
 </p>
