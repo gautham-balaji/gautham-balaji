@@ -1,64 +1,72 @@
 <div align="center">
-<h1>👋 Hi, I'm Gautham Balaji</h1>
- 
-<h3>Software Engineer &nbsp;·&nbsp; Backend &nbsp;·&nbsp; Full-Stack &nbsp;·&nbsp; Agentic AI</h3>
- 
-<p><b>I build scalable systems and production AI platforms that are reliable, observable and fast.</b></p>
-<a href="https://www.linkedin.com/in/gautham-balaji-18722228b/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="mailto:gautham.balajis@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-<img src="https://img.shields.io/badge/Chennai-India-24292E?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location"/>
- 
+<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0f2027,100:2c5364&text=Gautham%20Balaji&fontColor=ffffff&fontSize=58&fontAlignY=36&desc=Full-Stack%20Engineer%2C%20Backend%20Systems%2C%20Agentic%20AI&descAlignY=58&descSize=20&animation=fadeIn&section=header" alt="Gautham Balaji" width="100%"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1200&color=61DAFB&center=true&vCenter=true&width=700&height=45&lines=Building+multi-agent+AI+platforms;Backend+systems+that+scale;Explainable+ML+and+voice+agents;Shipping+production+software" alt="Typing animation"/>
 <br/>
-<img src="https://komarev.com/ghpvc/?username=gautham-balaji&label=Profile%20views&color=0A66C2&style=flat-square" alt="Profile views"/>
-<img src="https://img.shields.io/github/followers/gautham-balaji?label=Followers&style=flat-square&logo=github" alt="Followers"/>
-<img src="https://img.shields.io/github/stars/gautham-balaji?label=Stars&style=flat-square&logo=github" alt="Stars"/>
+<a href="https://www.linkedin.com/in/gautham-balaji-18722228b/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:gautham.balajis@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<img src="https://img.shields.io/badge/Chennai%2C%20India-24292E?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location"/>
+ 
 </div>
 <br/>
-##🚀 At a Glance
+<h2 align="center">~/about</h2>
+ 
+```yaml
+name:       Gautham Balaji
+role:       Full Stack Developer @ Admrls
+also:       Technical Specialist @ CrftHQ
+focus:      [Agentic AI, Backend Systems, Applied ML]
+education:  B.Tech CSE (AI & ML), VIT Chennai, 2027, CGPA 8.30
+location:   Chennai, India
+now:        Building multi-agent AI platforms on Microsoft AutoGen
+open_to:    Interesting problems in AI infrastructure and backend engineering
+```
+ 
+<br/>
+<h2 align="center">~/impact</h2>
  
 <div align="center">
 <table>
   <tr>
-    <td align="center" width="25%"><h2>0.21 → 0.73</h2><b>Churn recall improvement</b><br/><sub>Sundaram Finance</sub></td>
-    <td align="center" width="25%"><h2>10,000+</h2><b>Banking records modeled</b><br/><sub>End-to-end ML pipeline</sub></td>
-    <td align="center" width="25%"><h2>30,000+</h2><b>Student creators supported</b><br/><sub>CrftHQ automation</sub></td>
-    <td align="center" width="25%"><h2>8.30</h2><b>CGPA</b><br/><sub>B.Tech CSE (AI &amp; ML), VIT</sub></td>
+    <td align="center" width="25%"><h2>0.21 → 0.73</h2><b>Churn recall</b><br/><sub>ensemble model, Sundaram Finance</sub></td>
+    <td align="center" width="25%"><h2>10,000+</h2><b>Records modeled</b><br/><sub>end-to-end ML pipeline</sub></td>
+    <td align="center" width="25%"><h2>30,000+</h2><b>Creators supported</b><br/><sub>CrftHQ automation</sub></td>
+    <td align="center" width="25%"><h2>Multi-agent</h2><b>Production AI platform</b><br/><sub>AutoGen, RBAC, tracing</sub></td>
   </tr>
 </table>
 </div>
 <br/>
-## 💼 Experience
+<h2 align="center">~/experience</h2>
  
-### 🏢 Full Stack Developer — **Admrls**
-`Aug 2025 – Present`
- 
-- Co-developed a **production multi-agent AI platform** on **Microsoft AutoGen**: modular orchestration, task routing, lifecycle management and enterprise observability.
-- Built core agent infrastructure: **structured logging, RBAC, execution tracing and fault recovery**.
-- Helped commercialize an **enterprise video conferencing platform**: **multi-tenant architecture**, secure recording management and admin workflows for SaaS deployment.
-### 🚀 Technical Specialist — **CrftHQ**
-`Jul 2025 – Present`
- 
-- Designed and deployed **automation systems** and email workflows for an accelerator serving **30,000+ student creators**.
-- Integrated **AI, design and automation** into daily operations to improve scalability and impact.
-### 📊 Data Science Intern — **Sundaram Finance**
-`May 2025 – Jul 2025`
- 
-- Built an **end-to-end churn prediction pipeline** on 10,000+ banking records.
-- Raised **churn recall from 0.21 to 0.73** using a stacked ensemble (Logistic Regression, Random Forest, XGBoost).
-- Explained predictions with **SHAP** and shipped a **Streamlit app on Hugging Face Spaces** with CI/CD via GitHub Actions.
+<h3>Full Stack Developer &nbsp;·&nbsp; Admrls <sub>&nbsp;Aug 2025 – Present</sub></h3>
+<ul>
+  <li>Co-developed a <b>production multi-agent AI platform</b> on <b>Microsoft AutoGen</b> with modular orchestration, task routing and lifecycle management.</li>
+  <li>Built enterprise agent infrastructure: <b>structured logging, RBAC, execution tracing and fault recovery</b>.</li>
+  <li>Helped commercialize an <b>enterprise video conferencing platform</b> with <b>multi-tenant architecture</b>, secure recording management and admin workflows.</li>
+</ul>
+<h3>Technical Specialist &nbsp;·&nbsp; CrftHQ <sub>&nbsp;Jul 2025 – Present</sub></h3>
+<ul>
+  <li>Designed and deployed <b>automation systems</b> and email workflows for a student-led accelerator serving <b>30,000+ creators</b>.</li>
+  <li>Integrated <b>AI, design and automation</b> into daily operations to improve scalability.</li>
+</ul>
+<h3>Data Science Intern &nbsp;·&nbsp; Sundaram Finance <sub>&nbsp;May – Jul 2025</sub></h3>
+<ul>
+  <li>Built an end-to-end <b>churn prediction pipeline</b> on 10,000+ banking records.</li>
+  <li>Raised <b>recall from 0.21 to 0.73</b> with a stacked ensemble, explained with <b>SHAP</b>.</li>
+  <li>Deployed a <b>Streamlit app on Hugging Face Spaces</b> with CI/CD via GitHub Actions.</li>
+</ul>
 <br/>
-## 🛠️ Featured Projects
+<h2 align="center">~/projects</h2>
  
 <table>
   <tr>
     <td width="50%" valign="top">
       <h3>♟️ Explainable AI Chess Engine</h3>
-      <p>A playable engine combining a <b>CNN evaluator</b>, classical heuristics and a <b>Ridge model trained on Stockfish</b> evaluations. Flask UI with live analysis, top moves and <b>Integrated Gradients</b> explanations.</p>
+      <p>A playable engine combining a <b>CNN evaluator</b>, classical heuristics and a <b>Ridge model trained on Stockfish</b> evaluations. Flask app with live analysis, top moves and <b>Integrated Gradients</b> explanations.</p>
       <sub><code>Python</code> <code>TensorFlow</code> <code>Scikit-Learn</code> <code>Flask</code></sub>
     </td>
     <td width="50%" valign="top">
-      <h3>🎙️ VERA: Real-Time Voice AI Agent</h3>
-      <p>A live voice agent on <b>Gemini Live + Twilio</b> with <b>dynamic multi-tool orchestration</b>, a <b>RAG</b> pipeline for grounded answers, and structured conversation memory.</p>
+      <h3>🎙️ VERA: Real-Time Voice Agent</h3>
+      <p>A live voice agent on <b>Gemini Live + Twilio</b> with <b>dynamic multi-tool orchestration</b>, a <b>RAG</b> pipeline for grounded answers and structured conversation memory.</p>
       <sub><code>Gemini Live</code> <code>Twilio</code> <code>RAG</code> <code>Tool Orchestration</code></sub>
     </td>
   </tr>
@@ -76,50 +84,48 @@
   </tr>
 </table>
 <br/>
-## 🧰 Tech Stack
+<h2 align="center">~/stack</h2>
  
 <div align="center">
-**Languages**<br/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<b>Languages &amp; Data</b><br/>
+<img src="https://skillicons.dev/icons?i=py,cpp,java,js,mysql" alt="Languages"/>
  
-**AI &amp; Agentic Systems**<br/>
-<img src="https://img.shields.io/badge/AutoGen-5E5E5E?style=for-the-badge&logo=microsoft&logoColor=white"/>
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-<img src="https://img.shields.io/badge/RAG-6E40C9?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/LLM%20Agents-6E40C9?style=for-the-badge"/>
+<br/><br/>
  
-**Backend &amp; Full Stack**<br/>
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
+<b>Backend &amp; Frontend</b><br/>
+<img src="https://skillicons.dev/icons?i=fastapi,flask,react" alt="Backend and frontend"/>
  
-**Tools &amp; Platforms**<br/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
-<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+<br/><br/>
+ 
+<b>ML &amp; Tooling</b><br/>
+<img src="https://skillicons.dev/icons?i=tensorflow,sklearn,git,github,githubactions" alt="ML and tooling"/>
+ 
+<br/><br/>
+ 
+<b>Agentic AI</b><br/>
+<sub>Microsoft AutoGen &nbsp;·&nbsp; LangChain &nbsp;·&nbsp; RAG &nbsp;·&nbsp; LLM Agents &nbsp;·&nbsp; Tool Orchestration &nbsp;·&nbsp; Prompt Engineering &nbsp;·&nbsp; JWT &nbsp;·&nbsp; Hugging Face Spaces</sub>
  
 </div>
 <br/>
-## 📈 GitHub Stats
+<h2 align="center">~/activity</h2>
  
 <div align="center">
-<img src="https://streak-stats.demolab.com/?user=gautham-balaji&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
-<img src="https://github-readme-stats.vercel.app/api?username=gautham-balaji&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gautham-balaji&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" height="165"/>
+<img src="https://streak-stats.demolab.com/?user=gautham-balaji&theme=tokyonight&hide_border=true&border_radius=12" alt="GitHub streak"/>
+<br/><br/>
+ 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gautham-balaji/gautham-balaji/output/github-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gautham-balaji/gautham-balaji/output/github-snake.svg"/>
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/gautham-balaji/gautham-balaji/output/github-snake.svg"/>
+</picture>
 </div>
 <br/>
-## 📫 Let's Connect
+<h2 align="center">~/contact</h2>
  
 <div align="center">
-<h3>Open to interesting problems in agentic AI, backend systems and applied ML.</h3>
+<h3>Always up for conversations about agent infrastructure, applied ML and building products people use.</h3>
  
 <a href="mailto:gautham.balajis@gmail.com"><b>gautham.balajis@gmail.com</b></a> &nbsp;·&nbsp; <a href="https://www.linkedin.com/in/gautham-balaji-18722228b/"><b>LinkedIn</b></a>
  
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0f2027,100:2c5364&section=footer" alt="" width="100%"/>
 </div>
