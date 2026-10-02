@@ -14,7 +14,7 @@
 <img src="https://img.shields.io/github/stars/gautham-balaji?label=Stars&style=flat-square&logo=github" alt="Stars"/>
 </div>
 <br/>
-## 🚀 At a Glance
+##🚀 At a Glance
  
 <div align="center">
 <table>
